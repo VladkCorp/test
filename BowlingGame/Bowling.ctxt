@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bowling
+comment1.params=
+comment1.target=Bowling()
+comment2.params=name\ p
+comment2.target=void\ addPlayer(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ getWinner()
+numComments=4

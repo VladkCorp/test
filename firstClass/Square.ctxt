@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=x
+comment1.target=Square(int)
+comment2.params=
+comment2.target=int\ area()
+comment3.params=
+comment3.target=double\ area_circle()
+numComments=4
