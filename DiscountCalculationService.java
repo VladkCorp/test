@@ -7,6 +7,7 @@ public class DiscountCalculationService {
 
         //TODO  bigger check = bigger discount, add it up
         //check price policies in marketing ledger
+
         if (checkSum > 1000) {
 
         }
